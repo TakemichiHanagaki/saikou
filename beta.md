@@ -1,7 +1,6 @@
-# 1.2.0.17
+# 1.2.0.18
 
-- Fixed Serialization Problems
-- Fixed Kamyroll Episode Problem
-- AniMixPlay Source by @scrazzz (Not Tested)
-- Add New Contributors Names
-- Fixed Firebase For Real this time
+- Fixed 9anime & backup
+- Add Mangaread Source by @scrazzz
+- Added Subtitle Settings by @adolar0042
+- Added Button to change sub language on kamyroll by @adolar0042
